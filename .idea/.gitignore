@@ -6,3 +6,5 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+#排除所有图标不使用git
+*.svg
